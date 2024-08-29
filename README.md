@@ -15,7 +15,7 @@ Meu objetivo com esse projeto além de demonstrar minha capacidade de análise d
 
 Acesse meu projeto e veja análises de muita relevância.
 
-[Link para o projeto completo](https://github.com/rgolino/Data_Analytic_Airbnb/blob/main/Analisando_os_Dados_do_Airbnb_(Porto_Portugal).ipynb)
+[Link para o projeto completo](https://github.com/rgolino/Business_Analytics_Intelligence/blob/main/An%C3%A1lise_Performace_e_Risco.ipynb)
 
 **Links para me acharem:**
 * [Artigo sobre Proteção de Dados](https://www.linkedin.com/pulse/anonimiza%25C3%25A7%25C3%25A3o-de-dados-preservando-privacidade-sem-perder-golino-7y5uf/?trackingId=ZQkapQMDS5%2BtP%2Bb6Hd6%2Bvw%3D%3D)
